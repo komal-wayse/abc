@@ -1,0 +1,93 @@
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.csprojAssemblyReference.cache
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.AssemblyInfoInputs.cache
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.AssemblyInfo.cs
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.csproj.CoreCompileInputs.cache
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.exe
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.deps.json
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.runtimeconfig.json
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.runtimeconfig.dev.json
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.pdb
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\staticwebassets\Corporate_Website.StaticWebAssets.Manifest.cache
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\staticwebassets\Corporate_Website.StaticWebAssets.xml
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\scopedcss\bundle\Corporate_Website.styles.css
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.RazorTargetAssemblyInfo.cache
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.csproj.CopyComplete
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.dll
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.pdb
+D:\Asp_Reactjs_Sql\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.genruntimeconfig.cache
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.exe
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.deps.json
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.runtimeconfig.json
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.runtimeconfig.dev.json
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.pdb
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.csprojAssemblyReference.cache
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.AssemblyInfoInputs.cache
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.AssemblyInfo.cs
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.csproj.CoreCompileInputs.cache
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\staticwebassets\Corporate_Website.StaticWebAssets.Manifest.cache
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\staticwebassets\Corporate_Website.StaticWebAssets.xml
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\scopedcss\bundle\Corporate_Website.styles.css
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.RazorTargetAssemblyInfo.cache
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.csproj.CopyComplete
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.dll
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.pdb
+E:\GitHub repo\Corporate-Training-Website-Demo\.Net Api Demo website\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.exe
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.deps.json
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.runtimeconfig.json
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Corporate_Website.pdb
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\staticwebassets\Corporate_Website.StaticWebAssets.Manifest.cache
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\staticwebassets\Corporate_Website.StaticWebAssets.xml
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\scopedcss\bundle\Corporate_Website.styles.css
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.dll
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.pdb
+C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\Corporate_Website.genruntimeconfig.cache

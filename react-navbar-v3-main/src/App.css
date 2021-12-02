@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+* {
+  font-family: 'Sora', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.per{
+  border-bottom: 3px;
+  border: 1px solid black;
+  color: rgb(27, 29, 31);
+  font-weight: small;
+  column-rule-color: #ff0000;
+  
+}
+.bt{
+ font-variant:small-caps;
+ 
+}
+.second{
+  
+ 
+  padding-bottom: 100000px;
+  
+  
+}
+.aa{
+  margin: auto;
+  width: 150%;
+  text-align: center;
+  position: absolute;
+  top: 40px;
+}
+.bc{
+  margin-left: 7px;
+  width: 150%;
+}
+.mom{
+  margin-right: 15px;
+  
+}
+.watch{
+  text-align: center;
+  top: 40px;
+}
+.Text{
+  text-align: center;
+  padding: 10px;
+  border: none;
+}
+.bo{
+  border-color: black;
+  background-color: black;
+  height: 20px;
+  border-top: none;
+}
+.icon{
+  align-items:'center';
+}
+.scrollit {
+  height: 600px;
+  scroll-margin-right: 500px;
+  overflow: auto;
+  
+  }
+ 
+
+.container-fluid{
+    width: 90%;
+    margin: auto;
+    
+
+}
+
+.table-responsive {
+    max-height: 700px;
+    box-shadow: rgba(0,0,0,0.25) 0px 25px 50px -12px;
+}
+
+tr:hover{
+    background-color: #ffa;
+}
+
+td,
+th{
+    position: relative;
+
+}
+.table td,
+.table th {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: none;
+}
+
+td:hover::after,
+th:hover::after{
+content: "";
+position: absolute;
+background-color: #f2f2f2;
+left: 0;
+top: -5000px;
+height: 5000px;
+width: 100%;
+z-index: -1;
+
+}
+
+.table tr td:hover:nth-child(4){
+    background-color: rgb(117,223,122);
+    color: aliceblue;
+    border: 0.5px solid rgb(12,12,12)
+
+}
+.table tr td:hover{
+    background-color: rgb(117,223,122);
+    color:aliceblue;
+    border: 0.5px solid rgb(12,12,12);
+}
+.headline {
+  margin: 0 auto;
+}
